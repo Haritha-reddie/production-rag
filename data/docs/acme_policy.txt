@@ -1,0 +1,60 @@
+ACME Corp — Customer Policy Guide
+==================================
+
+RETURN POLICY
+-------------
+Items purchased from ACME Corp may be returned within 30 days of the original
+purchase date. To be eligible for a return, the item must be unused, in its
+original packaging, and accompanied by a valid receipt or proof of purchase.
+
+Refunds are processed to the original payment method within 5–7 business days
+of receiving the returned item. Shipping costs are non-refundable unless the
+return is due to our error.
+
+To initiate a return, contact our support team at returns@acme-corp.example.com
+or call 1-800-555-0199. You will receive a Return Merchandise Authorization (RMA)
+number that must be included with your shipment.
+
+PAYMENT METHODS
+---------------
+We accept the following payment methods:
+- Visa, MasterCard, and American Express credit and debit cards
+- PayPal
+- Bank wire transfer (for orders over $500)
+- ACME gift cards
+
+All transactions are processed in USD. International orders may be subject to
+currency conversion fees charged by your bank.
+
+CUSTOMER SUPPORT
+----------------
+Our customer support team is available Monday through Friday, 9 AM to 6 PM EST.
+
+Email: support@acme-corp.example.com
+Phone: 1-800-555-0100
+Live chat: Available on our website during business hours
+
+For urgent technical issues, our premium support line (1-800-555-0911) operates
+24/7 and is available to customers with an active maintenance contract.
+
+SHIPPING POLICY
+---------------
+Standard shipping takes 5–7 business days within the continental United States.
+Expedited shipping (2–3 business days) is available for an additional fee.
+Overnight shipping is available for orders placed before 2 PM EST.
+
+Free standard shipping is offered on all orders over $75. Orders under $75 incur
+a flat shipping fee of $6.99.
+
+International shipping is available to over 40 countries. Delivery times and
+costs vary by destination. Import duties and taxes are the responsibility of
+the recipient.
+
+PRIVACY POLICY
+--------------
+ACME Corp collects personal information solely for the purpose of processing
+orders and providing customer service. We do not sell, rent, or share your
+personal data with third parties for marketing purposes.
+
+Data is stored securely and encrypted at rest and in transit. You may request
+deletion of your personal data at any time by contacting privacy@acme-corp.example.com.

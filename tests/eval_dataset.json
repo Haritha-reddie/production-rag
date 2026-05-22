@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the return policy?",
+    "ground_truth": "Items can be returned within 30 days of purchase with a receipt for a full refund."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "ground_truth": "Customer support can be reached via email at support@example.com or by phone at 1-800-555-0100 during business hours."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "ground_truth": "We accept Visa, MasterCard, American Express, PayPal, and bank transfers."
+  }
+]
